@@ -1,6 +1,8 @@
 # Sentiment Classification with BERT and Tokenization
 
-This model performs sentiment classification using the BERT model and tokenization techniques. It can be used to classify multi-class feelings, in this case, it was trained with only two, where 0 represented the inexistence of feelings and 1 the existence of feelings
+This model performs sentiment classification using the BERT model and tokenization techniques. It can be used to classify multi-class feelings, in this case, it was trained with only two, where 0 represented the inexistence of feelings and 1 the existence of feelings.
+
+![Representação de uma DCNN](https://cdn.discordapp.com/attachments/1184622679685333042/1196083127135768726/Screenshot_7.png?ex=65b65637&is=65a3e137&hm=4a3cea4949ce110254ee1e4e3dd1bf341d37b5da9c8c6e1f0b532731bc38bf36&)
 
 ## Step 1: Importing the libraries
 
