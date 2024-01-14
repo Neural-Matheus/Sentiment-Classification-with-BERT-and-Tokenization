@@ -44,7 +44,7 @@ drive.mount('/content/drive')
 
 cols = ['sentiment', 'id', 'date', 'query', 'user', 'text']
 
-data = pd.read_csv('/content/drive/My Drive/Cursos - recursos/training.1600000.processed.noemoticon.csv',
+data = pd.read_csv('/content/drive/MyDrive/Base de dados sentimentos/training.1600000.processed.noemoticon.csv',
                    header = None,
                    names = cols,
                    engine='python',
